@@ -1,0 +1,331 @@
+subject,body,category,sentiment,urgency
+"Wrong size received, again!","Hello team,
+
+Wrong size received, again! Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+Unable to sign in to my account.,"Hello team,
+
+Unable to sign in to my account. Please assist as soon as possible.
+
+Thanks,
+A customer",support,negative,high
+Smooth checkout process and great app.,"Hello team,
+
+Smooth checkout process and great app. Please assist as soon as possible.
+
+Thanks,
+A customer",support,positive,medium
+How do I update my email address?,"Hello team,
+
+How do I update my email address? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+My issue hasn’t been resolved despite multiple emails.,"Hello team,
+
+My issue hasn’t been resolved despite multiple emails. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+Why is no one responding to my complaint?,"Hello team,
+
+Why is no one responding to my complaint? Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+Can I change the product in my order?,"Hello team,
+
+Can I change the product in my order? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Completely unsatisfied with the packaging.,"Hello team,
+
+Completely unsatisfied with the packaging. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+What is your return policy?,"Hello team,
+
+What is your return policy? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Want to confirm delivery date.,"Hello team,
+
+Want to confirm delivery date. Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+The delivery was late by a week.,"Hello team,
+
+The delivery was late by a week. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+The product was damaged on delivery.,"Hello team,
+
+The product was damaged on delivery. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+I’m unhappy with your customer care.,"Hello team,
+
+I’m unhappy with your customer care. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+App interface is super clean.,"Hello team,
+
+App interface is super clean. Please assist as soon as possible.
+
+Thanks,
+A customer",support,positive,high
+Your delivery team was very polite.,"Hello team,
+
+Your delivery team was very polite. Please assist as soon as possible.
+
+Thanks,
+A customer",other,positive,high
+How do I change my delivery address?,"Hello team,
+
+How do I change my delivery address? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+I received the wrong item.,"Hello team,
+
+I received the wrong item. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+This is the third time I’m contacting support.,"Hello team,
+
+This is the third time I’m contacting support. Please assist as soon as possible.
+
+Thanks,
+A customer",support,negative,high
+Very satisfied with your platform.,"Hello team,
+
+Very satisfied with your platform. Please assist as soon as possible.
+
+Thanks,
+A customer",support,positive,high
+I want to change the delivery date.,"Hello team,
+
+I want to change the delivery date. Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Can I modify the order I placed?,"Hello team,
+
+Can I modify the order I placed? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Great service as always!,"Hello team,
+
+Great service as always! Please assist as soon as possible.
+
+Thanks,
+A customer",support,positive,high
+Need invoice for my last purchase.,"Hello team,
+
+Need invoice for my last purchase. Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+How can I apply a coupon code?,"Hello team,
+
+How can I apply a coupon code? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+The service is extremely poor and I’m disappointed.,"Hello team,
+
+The service is extremely poor and I’m disappointed. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+When will my order arrive?,"Hello team,
+
+When will my order arrive? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Still waiting for someone to fix this issue!,"Hello team,
+
+Still waiting for someone to fix this issue! Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+Don't miss this amazing investment opportunity.,"Hello team,
+
+Don't miss this amazing investment opportunity. Please assist as soon as possible.
+
+Thanks,
+A customer",spam,neutral,high
+Delay in response time is unacceptable.,"Hello team,
+
+Delay in response time is unacceptable. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+Need update on order #21903.,"Hello team,
+
+Need update on order #21903. Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Order #54831 hasn’t shipped yet.,"Hello team,
+
+Order #54831 hasn’t shipped yet. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+I need help with tracking my order.,"Hello team,
+
+I need help with tracking my order. Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Everything arrived on time. Thank you!,"Hello team,
+
+Everything arrived on time. Thank you! Please assist as soon as possible.
+
+Thanks,
+A customer",other,positive,medium
+Order shows shipped but no tracking number.,"Hello team,
+
+Order shows shipped but no tracking number. Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Fantastic experience — will buy again.,"Hello team,
+
+Fantastic experience — will buy again. Please assist as soon as possible.
+
+Thanks,
+A customer",other,positive,high
+Will I get a tracking link?,"Hello team,
+
+Will I get a tracking link? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+I want to cancel my order.,"Hello team,
+
+I want to cancel my order. Please assist as soon as possible.
+
+Thanks,
+A customer",support,negative,high
+Congratulations! You’ve won a $500 gift card.,"Hello team,
+
+Congratulations! You’ve won a $500 gift card. Please assist as soon as possible.
+
+Thanks,
+A customer",spam,positive,high
+Is there any way to expedite delivery?,"Hello team,
+
+Is there any way to expedite delivery? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Get rich quick with this secret formula!,"Hello team,
+
+Get rich quick with this secret formula! Please assist as soon as possible.
+
+Thanks,
+A customer",spam,neutral,low
+Please confirm if my order is dispatched.,"Hello team,
+
+Please confirm if my order is dispatched. Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+The refund hasn’t been processed.,"Hello team,
+
+The refund hasn’t been processed. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+Why is my order delayed?,"Hello team,
+
+Why is my order delayed? Please assist as soon as possible.
+
+Thanks,
+A customer",query,negative,high
+Where can I download my order history?,"Hello team,
+
+Where can I download my order history? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+My package hasn't arrived yet.,"Hello team,
+
+My package hasn't arrived yet. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+Loved the packaging and delivery.,"Hello team,
+
+Loved the packaging and delivery. Please assist as soon as possible.
+
+Thanks,
+A customer",support,positive,high
+I appreciate the quick updates on shipping.,"Hello team,
+
+I appreciate the quick updates on shipping. Please assist as soon as possible.
+
+Thanks,
+A customer",query,positive,medium
+Need help with payment failure.,"Hello team,
+
+Need help with payment failure. Please assist as soon as possible.
+
+Thanks,
+A customer",support,negative,high
+Tracking shows delivered but I didn't get anything.,"Hello team,
+
+Tracking shows delivered but I didn't get anything. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+Really happy with the customer support.,"Hello team,
+
+Really happy with the customer support. Please assist as soon as possible.
+
+Thanks,
+A customer",support,positive,medium
+This is not spam. Open to claim your reward.,"Hello team,
+
+This is not spam. Open to claim your reward. Please assist as soon as possible.
+
+Thanks,
+A customer",spam,neutral,high
+App keeps crashing on my phone.,"Hello team,
+
+App keeps crashing on my phone. Please assist as soon as possible.
+
+Thanks,
+A customer",complaint,negative,high
+Can you help me reset my password?,"Hello team,
+
+Can you help me reset my password? Please assist as soon as possible.
+
+Thanks,
+A customer",query,neutral,medium
+Support needed for product installation.,"Hello team,
+
+Support needed for product installation. Please assist as soon as possible.
+
+Thanks,
+A customer",support,neutral,high
+Work from home and earn $1000 a day.,"Hello team,
+
+Work from home and earn $1000 a day. Please assist as soon as possible.
+
+Thanks,
+A customer",spam,neutral,high
