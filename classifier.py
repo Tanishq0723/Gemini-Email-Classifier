@@ -12,7 +12,7 @@ import google.generativeai as genai
 from google.api_core.exceptions import ResourceExhausted
 
 # ── 1. Configure ────────────────────────────────────────────────────────────
-API_KEY   = "AIzaSyBzMoPbkdENAiBg22VV9H8oYv6JlcZ_g0M"
+API_KEY   = "Your_key"
 MODEL_ID  = "models/gemini-2.0-flash"          # fast; use 1.5-pro if you like
 MAX_RETRY = 3                                  # retries after 429
 genai.configure(api_key=API_KEY)
